@@ -55,5 +55,5 @@ An ER diagram illustrating the relationships between the entities involved in bl
 ![ER Diagram](ER Diagram.png)
 
 ## SQL Code
-The SQL scripts used to create and populate the database tables, including sample data for donors, blood donations, screening results, transmitted infections, and recipients. You can find the complete SQL file [here](path/to/your/sqlfile.sql).
+The SQL scripts used to create and populate the database tables, including sample data for donors, blood donations, screening results, transmitted infections, and recipients. You can find the complete SQL file [here](Database.SQL).
 
