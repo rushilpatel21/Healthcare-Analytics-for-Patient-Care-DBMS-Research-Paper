@@ -52,7 +52,7 @@ Analyze transmitted infections among blood donors using SQL queries, database ta
 ## E-R Diagram
 An ER diagram illustrating the relationships between the entities involved in blood donation and transfusion processes.
 
-![ER Diagram](ER Diagram.png)
+![ER Diagram](ER-Diagram.png)
 
 ## SQL Code
 The SQL scripts used to create and populate the database tables, including sample data for donors, blood donations, screening results, transmitted infections, and recipients. You can find the complete SQL file [here](Database.SQL).
